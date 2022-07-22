@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NGIFR
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning nothing (unfortunately)
-- 💞️ I’m looking to collaborate on nothing at the present time (unfortunately)
+- 🌱 I’m currently learning again C# ( and C++ )
+- 💞️ I’m looking to collaborate on nothing at the present time (unfortunately), but as soon as I can
 - 📫 How to reach me ... ( anonyme at the present time )
 
 <!---
